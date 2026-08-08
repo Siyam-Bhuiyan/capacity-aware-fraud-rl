@@ -1,0 +1,16 @@
+# Raw / prepared datasets (not committed -- see README for how to regenerate)
+FiFAR.zip
+FiFAR_extracted/
+fifar_prepared/
+
+# Not for the repo
+Team_Task_Assignment.docx
+
+# Claude Code local session config
+.claude/
+
+# OS / editor junk
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
